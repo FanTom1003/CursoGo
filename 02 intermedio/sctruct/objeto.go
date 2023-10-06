@@ -2,9 +2,9 @@ package main
 
 import "fmt"
 
-type Employee struct {
-	id   int
-	name string
+type Employee struct { //object
+	id   int    // attribute
+	name string // attribute
 }
 
 func main() {
